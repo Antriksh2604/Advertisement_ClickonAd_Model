@@ -1,7 +1,7 @@
 # Advertisement-Click on Ad
 An Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website.
-I have worked with the Advertising csv file from the company. It has Customer info, suchas Email, Address, and their color Avatar. 
+I have worked with the advertising csv file from the company. It has Customer info, suchas Email, Address, and their color Avatar. 
 Then it also has numerical value columns:
   Avg. Session Length: Average session of in-store style advice sessions.
   Time on App: Average time spent on App in minutes
